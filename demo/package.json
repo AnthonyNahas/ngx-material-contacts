@@ -62,7 +62,7 @@
     "@angular/language-service": "^7.2.10",
     "@angularclass/hmr": "~2.1.3",
     "@nguniversal/express-engine": "^7.1.1",
-    "@nguniversal/module-map-ngfactory-loader": "^7.1.1",
+    "@nguniversal/module-map-ngfactory-loader": "^8.1.0",
     "@types/jest": "^23.3.14",
     "@types/node": "10.3.3",
     "codelyzer": "^4.5.0",
